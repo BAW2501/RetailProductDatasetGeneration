@@ -11,6 +11,7 @@ data_folder = Path("images")
 bounding_box_id_folder = Path("labels")
 index_to_class = list(Path("classes.txt").read_text().split("\n"))
 output_folder = Path("cropped_images")
+output_folder.mkdir(exist_ok=True)
 # create subfolders for each class
 for class_name in index_to_class:
     Path(output_folder / class_name).mkdir(parents=True,exist_ok=True)
