@@ -1,0 +1,42 @@
+path: data/  # dataset root dir
+train: train/  # train images (relative to 'path') 128 images
+val: val/  # val images (relative to 'path') 128 images
+
+names:
+ 0: champignon castillo
+ 1: coca
+ 2: couscous mama
+ 3: elio 1L
+ 4: elio 5L
+ 5: pril isis
+ 6: javel bref
+ 7: sol
+ 8: sucre skor
+ 9: thon huile ricamar
+ 10: tomate cab
+ 11: chef la vache qui rit
+ 12: coudes safina
+ 13: elio 2L
+ 14: fromage président
+ 15: tomate jumbo
+ 16: sucre cristal
+ 17: moutarde extra
+ 18: thon tomate ricamar
+ 19: farine 5Kg alama
+ 20: farine 1Kg safina
+ 21: nouilles jumbo
+ 22: lait candia
+ 23: huile bahia 1L
+ 24: mayonnaise lesieur
+ 25: dioul brick d'or
+ 26: cookies
+ 27: elseve-b
+ 28: elseve-n
+ 29: elseve-r
+ 30: farfalline
+ 31: haricots
+ 32: lben
+ 33: macaroni-4
+ 34: sauce-dz
+ 35: sauce-salade
+ 36: sprite

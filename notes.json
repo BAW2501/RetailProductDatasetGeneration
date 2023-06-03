@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "champignon castillo"
+    },
+    {
+      "id": 1,
+      "name": "coca cola"
+    },
+    {
+      "id": 2,
+      "name": "couscous mama"
+    },
+    {
+      "id": 3,
+      "name": "elio 1L"
+    },
+    {
+      "id": 4,
+      "name": "elio 5L"
+    },
+    {
+      "id": 5,
+      "name": "pril isis"
+    },
+    {
+      "id": 6,
+      "name": "javel bref"
+    },
+    {
+      "id": 7,
+      "name": "sol"
+    },
+    {
+      "id": 8,
+      "name": "sucre skor"
+    },
+    {
+      "id": 9,
+      "name": "thon huile ricamar"
+    },
+    {
+      "id": 10,
+      "name": "tomate cab"
+    },
+    {
+      "id": 11,
+      "name": "chef la vache qui rit"
+    },
+    {
+      "id": 12,
+      "name": "coudes safina"
+    },
+    {
+      "id": 13,
+      "name": "elio 2L"
+    },
+    {
+      "id": 14,
+      "name": "fromage président"
+    },
+    {
+      "id": 15,
+      "name": "tomate jumbo"
+    },
+    {
+      "id": 16,
+      "name": "sucre cristal"
+    },
+    {
+      "id": 17,
+      "name": "moutarde extra"
+    },
+    {
+      "id": 18,
+      "name": "thon tomate ricamar"
+    },
+    {
+      "id": 19,
+      "name": "farine 5Kg alama"
+    },
+    {
+      "id": 20,
+      "name": "farine 1Kg safina"
+    },
+    {
+      "id": 21,
+      "name": "nouilles jumbo"
+    },
+    {
+      "id": 22,
+      "name": "lait candia"
+    },
+    {
+      "id": 23,
+      "name": "huile bahia 1L"
+    },
+    {
+      "id": 24,
+      "name": "mayonnaise lesieur"
+    },
+    {
+      "id": 25,
+      "name": "dioul brick d'or"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
